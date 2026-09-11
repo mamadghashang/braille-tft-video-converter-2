@@ -1,0 +1,5 @@
+FishBox Video Export
+MODE 1 — EXPORT
+Version 1.0.0
+
+This project is intended to reproduce the FishBox 240×240 monochrome TFT dot output from video frames.
